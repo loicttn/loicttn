@@ -1,4 +1,4 @@
-Security enthusiast, Software developer and President of [PoC](https://github.com/PoCFrance)
+Security enthusiast, Software developer and President at [PoC](https://github.com/PoCFrance)
 
 :computer: [website](https://pwnh4.com)
 
