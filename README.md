@@ -1,4 +1,6 @@
-### Hi There :wave:
+# Hi There :wave:
+
+<p align="right"><img src="https://media.giphy.com/media/3o7aCQocan3bRiT87C/giphy.gif" width="200"></p>
 
 Security enthusiast, Software developer and President at [PoC](https://github.com/PoCFrance)
 
@@ -10,10 +12,11 @@ Projects I love at the moment:
 * [Next](https://github.com/vercel/next.js/)
 
 
-You can find me here:
+### Contact me
 
-:computer: [website](https://pwnh4.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/loicttn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/loicttn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pwnh4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pwnh4.com)  
 
-:bird: [twitter](https://twitter.com/pwnh4)
 
-:briefcase: [linkedin](https://www.linkedin.com/in/loicttn/)
+### Some stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=loicttn&show_icons=true)
