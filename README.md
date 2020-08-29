@@ -1,8 +1,7 @@
 # Hi There :wave:
 
-<p align="right"><img src="https://media.giphy.com/media/3o7aCQocan3bRiT87C/giphy.gif" width="200"></p>
+Security enthusiast, Software developer and President at [PoC](https://github.com/PoCFrance)<p align="right"><img src="https://media.giphy.com/media/3o7aCQocan3bRiT87C/giphy.gif" width="200"></p>
 
-Security enthusiast, Software developer and President at [PoC](https://github.com/PoCFrance)
 
 Projects I love at the moment:
 * [Cutter](https://github.com/radareorg/cutter)
