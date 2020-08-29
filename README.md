@@ -2,13 +2,12 @@
 
 Security enthusiast, Software developer and President at [PoC](https://github.com/PoCFrance)
 
-Projects I love at the moment: <p align="right"><img src="https://media.giphy.com/media/3o7aCQocan3bRiT87C/giphy.gif" width="100"></p>
+Projects I love at the moment:
 * [Cutter](https://github.com/radareorg/cutter)
 * [Angr](https://github.com/angr/angr)
 * [Z3](https://github.com/Z3Prover/z3)
 * [Deno](https://github.com/denoland/deno)
 * [Next](https://github.com/vercel/next.js/)
-
 
 ### Contact me
 
