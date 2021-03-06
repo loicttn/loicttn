@@ -1,6 +1,6 @@
 # Hi There :wave:
 
-Security enthusiast, Software developer and President at [PoC](https://github.com/PoCInnovation)
+Security enthusiast, Software developer and President at [PoC](https://github.com/PoCInnovation).
 
 Projects I love at the moment:
 * [Cutter](https://github.com/radareorg/cutter)
