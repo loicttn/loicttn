@@ -7,7 +7,6 @@ Projects I love at the moment:
 * [Angr](https://github.com/angr/angr)
 * [Z3](https://github.com/Z3Prover/z3)
 * [Deno](https://github.com/denoland/deno)
-* [Next](https://github.com/vercel/next.js/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=loicttn&show_icons=true)
 
