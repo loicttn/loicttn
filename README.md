@@ -28,5 +28,5 @@ Here is a list of some projects I like using and following at the moment. I use 
   
 ### Contact me
 
-Either reach me out on [Twitter](https://twitter.com/pwnh4) or on Telegram by adding *@pwnh4*.
+Either reach me out on [Twitter](https://twitter.com/pwnh4) or on Telegram *@pwnh4*.
 
