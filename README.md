@@ -21,9 +21,8 @@ Here is a list of some projects I like using and following at the moment. I use 
 ### Some stats on my public work
 
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=loicttn&theme=dark&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=loicttn&show_icons=false&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=loicttn&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loicttn&show_icons=false&theme=dark&hide_border=true" width="49%" />
 </div>
   
 ### Contact me
