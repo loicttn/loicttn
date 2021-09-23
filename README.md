@@ -4,7 +4,7 @@
 
 🇫🇷 Software Engineer promoting Innovation everywhere. Security and Web3 enthusiast trying to understand how to build unbreakable things.
 
-[![pgp](https://img.shields.io/badge/pgp-BBEDF9FF51C6C179-313131?style=flat&labelColor=313131&color=313131)](https://github.com/orhun.gpg)
+[![pgp](https://img.shields.io/badge/pgp-BBEDF9FF51C6C179-313131?style=flat&labelColor=313131&color=313131)](https://github.com/loicttn.gpg)
 
 <br />
 
