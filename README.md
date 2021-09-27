@@ -16,7 +16,7 @@ Here is a list of some projects I like using and following at the moment. I use 
 * [Angr](https://github.com/angr/angr): a symbolic analysis framework in Python3 to automate Reverse challenges resolution
 * [Obsidian](https://github.com/obsidianmd): a cool, self-hostable, note-taking app to connect your thoughts
 * [Z3](https://github.com/Z3Prover/z3): an SMT solver that I use in Python3 for problems that can be defined with constraints
-* [Deno](https://github.com/denoland/deno): a safest and cleanest alternative to NodeJs
+* [Deno](https://github.com/denoland/deno): a safer and cleaner alternative to NodeJs
 
 ### Some stats on my public work
 
