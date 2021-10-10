@@ -10,7 +10,7 @@
 
 I currently work as a Software Engineer and Junior PM at [SkillZ](https://skillz.io), a web3 infrastructure provider on Ethereum. I got a bachelor from [EPITECH](https://epitech.eu) and am the former President and co-founder of [PoC Innovation](https://github.com/PoCInnovation). I work on a lot of web2 and web3 side projects, and love playing CTFs and writing posts on my [blog](https://pwnh4.com).
 
-Here is a list of some projects I like using and following at the moment. I use them either for side-projects development, security challenges or personnal organization:
+Here is a list of some projects I like using and following at the moment. I use them either for side-projects development, security challenges or personal organization:
 * [Cutter](https://github.com/radareorg/cutter): a GUI built on [Rizin](https://rizin.re) for easy Reverse Engineering
 * [Prisma](https://github.com/prisma): easy and safe ORM for TypeScript backends
 * [Angr](https://github.com/angr/angr): a symbolic analysis framework in Python3 to automate Reverse challenges resolution
