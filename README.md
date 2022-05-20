@@ -17,7 +17,7 @@ Here is a list of some projects I like using and following at the moment. I use 
 * [Obsidian](https://github.com/obsidianmd): a cool, self-hostable, note-taking app to connect your thoughts
 * [Z3](https://github.com/Z3Prover/z3): an SMT solver that I use in Python3 for problems that can be defined with constraints
 * [Deno](https://github.com/denoland/deno): a safer and cleaner alternative to NodeJs
-* [Gno](https://github.com/gnoland/gno): cosmos zone with interpreted golang smart contracts
+* [Gno](https://github.com/gnolang/gno): cosmos zone with interpreted golang smart contracts
 
 ### Some stats on my public work
 
