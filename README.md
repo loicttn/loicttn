@@ -8,7 +8,7 @@
 
 <br />
 
-I currently work as a Software Engineer and Junior PM at [SkillZ](https://skillz.io), a web3 infrastructure provider on Ethereum. I got a bachelor from [EPITECH](https://epitech.eu) and am the former President and co-founder of [PoC Innovation](https://github.com/PoCInnovation). I work on a lot of web2 and web3 side projects, and love playing CTFs and writing posts on my [blog](https://pwnh4.com).
+I currently work as a Product Manager at [Kiln](https://kiln.fi), a web3 staking provider. I got a bachelor from [EPITECH](https://epitech.eu) and am the former President and co-founder of [PoC Innovation](https://github.com/PoCInnovation). I work on a lot of web2 and web3 side projects, and love playing CTFs and writing posts on my [blog](https://pwnh4.com).
 
 Here is a list of some projects I like using and following at the moment. I use them either for side-projects development, security challenges or personal organization:
 * [Cutter](https://github.com/radareorg/cutter): a GUI built on [Rizin](https://rizin.re) for easy Reverse Engineering
@@ -17,6 +17,7 @@ Here is a list of some projects I like using and following at the moment. I use 
 * [Obsidian](https://github.com/obsidianmd): a cool, self-hostable, note-taking app to connect your thoughts
 * [Z3](https://github.com/Z3Prover/z3): an SMT solver that I use in Python3 for problems that can be defined with constraints
 * [Deno](https://github.com/denoland/deno): a safer and cleaner alternative to NodeJs
+* [Gno](https://github.com/gnoland/gno): cosmos zone with interpreted golang smart contracts
 
 ### Some stats on my public work
 
