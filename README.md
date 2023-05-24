@@ -1,8 +1,12 @@
-<img align="left" src="https://pwnh4.com/images/logo.gif" width="20%">
+<img align="left" src="https://pwnh4.com/images/logo.gif" width="20%"/>
 
 ## Hey, pwnh4 here
 
 🇫🇷 Software Engineer / Product Manager currently working in the Blockchain space. Big fan of security, hard technical challenges and new technologies.
+
+[![pgp](https://img.shields.io/badge/pgp-BBEDF9FF51C6C179-313131?style=flat&labelColor=313131&color=313131)](https://github.com/loicttn.gpg)
+
+<br/><br/>
 
 Cool stuff I follow:
 * [Cutter](https://github.com/radareorg/cutter): a GUI built on [Rizin](https://rizin.re) for easy Reverse Engineering
