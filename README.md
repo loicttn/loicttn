@@ -2,15 +2,9 @@
 
 ## Hey, pwnh4 here
 
-🇫🇷 Software Engineer promoting Innovation everywhere. Security and Web3 enthusiast trying to understand how to build unbreakable things.
+🇫🇷 Software Engineer / Product Manager currently working in the Blockchain space. Big fan of security, hard technical challenges and new technologies.
 
-[![pgp](https://img.shields.io/badge/pgp-BBEDF9FF51C6C179-313131?style=flat&labelColor=313131&color=313131)](https://github.com/loicttn.gpg)
-
-<br />
-
-I currently work as a Product Manager at [Kiln](https://kiln.fi), a web3 staking provider. I got a bachelor from [EPITECH](https://epitech.eu) and am the former President and co-founder of [PoC Innovation](https://github.com/PoCInnovation). I work on a lot of web2 and web3 side projects, and love playing CTFs and writing posts on my [blog](https://pwnh4.com).
-
-Here is a list of some projects I like using and following at the moment. I use them either for side-projects development, security challenges or personal organization:
+Cool stuff I follow:
 * [Cutter](https://github.com/radareorg/cutter): a GUI built on [Rizin](https://rizin.re) for easy Reverse Engineering
 * [Prisma](https://github.com/prisma): easy and safe ORM for TypeScript backends
 * [Angr](https://github.com/angr/angr): a symbolic analysis framework in Python3 to automate Reverse challenges resolution
@@ -19,7 +13,7 @@ Here is a list of some projects I like using and following at the moment. I use 
 * [Deno](https://github.com/denoland/deno): a safer and cleaner alternative to NodeJs
 * [Gno](https://github.com/gnolang/gno): cosmos zone with interpreted golang smart contracts
 
-### Some stats on my public work
+### Some stats
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=loicttn&theme=dark&hide_border=true" width="49%" />
@@ -28,5 +22,5 @@ Here is a list of some projects I like using and following at the moment. I use 
   
 ### Contact me
 
-Either reach me out on [Twitter](https://twitter.com/pwnh4) on Telegram *@pwnh4* or Discord *@pwnh4#0101*.
+Either reach out on [Twitter](https://twitter.com/pwnh4) or Telegram *@pwnh4*.
 
